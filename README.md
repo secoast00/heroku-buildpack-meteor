@@ -1,4 +1,4 @@
-# Heroku buildpack for meteor v1.3, node-engine v0.10.41
+# Heroku buildpack for meteor v1.3, node-engine v0.10.42
 
 ## Usage
 
